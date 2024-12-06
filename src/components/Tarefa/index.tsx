@@ -101,6 +101,6 @@ const Tarefa = ({
       </S.BarraAcoes>
     </S.Card>
   )
-}
+} 
 
 export default Tarefa

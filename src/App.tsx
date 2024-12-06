@@ -21,7 +21,7 @@ const rotas = createBrowserRouter([
 function App() {
   return (
     <Provider store={store}>
-      <EstiloGlobal />
+      <EstiloGlobal />  
       <Container>
         <RouterProvider router={rotas} />
       </Container>

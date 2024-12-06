@@ -32,7 +32,7 @@ export const Card = styled.div`
 
   label {
     display: flex;
-    align=items: center;
+    align-items: center;
     margin-bottom: 16px;
   }
 `
